@@ -1,13 +1,13 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "WGD",
+        "PGD",
         "   ",
         "   "
     ],
     "key": {
-        "W": {
-            "item": "minecraft:splash_water_bottle"
+        "P": {
+            "item": "minecraft:splash_potion"
         },
         "G": {
             "item": "minecraft:ghast_tear"
