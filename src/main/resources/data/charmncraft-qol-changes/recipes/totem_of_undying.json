@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "EHE",
+        "IGI",
+        " G "
+    ],
+    "key": {
+        "E": {
+            "item": "charmncraft-qol-changes:emerald_ingot"
+        },
+        "H": {
+            "item": "minecraft:golden_helmet"
+        },
+        "I": {
+            "item": "minecraft:gold_ingot"
+        },
+        "G": {
+            "item": "minecraft:gold_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:totem_of_undying",
+        "count": 1
+    }
+}
