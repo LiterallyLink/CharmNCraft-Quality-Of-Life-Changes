@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  L",
+        "LBL",
+        "LRL"
+    ],
+    "key": {
+        "L": {
+            "item": "minecraft:leather"
+        },
+        "B": {
+            "item": "minecraft:brown_carpet"
+        },
+        "R": {
+            "item": "minecraft:rabbit_hide"
+        }
+    },
+    "result": {
+        "item": "minecraft:leather_horse_armor",
+        "count": 1
+    }
+}

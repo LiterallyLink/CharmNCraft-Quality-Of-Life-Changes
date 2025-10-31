@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  D",
+        "DYD",
+        "DLD"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "Y": {
+            "item": "minecraft:yellow_carpet"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        }
+    },
+    "result": {
+        "item": "minecraft:diamond_horse_armor",
+        "count": 1
+    }
+}
