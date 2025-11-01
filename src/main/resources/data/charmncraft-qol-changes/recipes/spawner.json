@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CCC",
+        "CPC",
+        "CCC"
+    ],
+    "key": {
+        "C": {
+            "item": "minecraft:chain"
+        },
+        "P": {
+            "item": "minecraft:player_head"
+        }
+    },
+    "result": {
+        "item": "minecraft:spawner",
+        "count": 1
+    }
+}
