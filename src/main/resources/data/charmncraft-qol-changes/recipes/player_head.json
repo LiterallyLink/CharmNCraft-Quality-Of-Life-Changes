@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " B ",
+        " T ",
+        "   "
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:experience_bottle"
+        },
+        "T": {
+            "item": "minecraft:totem_of_undying"
+        }
+    },
+    "result": {
+        "item": "minecraft:player_head",
+        "count": 1
+    }
+}
