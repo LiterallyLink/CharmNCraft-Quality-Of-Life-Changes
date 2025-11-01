@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SRS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:soul_sand"
+    },
+    "R": {
+      "item": "minecraft:rose_bush"
+    }
+  },
+  "result": {
+    "item": "minecraft:wither_rose",
+    "count": 1
+  }
+}
