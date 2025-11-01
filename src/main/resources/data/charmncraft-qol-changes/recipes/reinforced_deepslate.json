@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        "DOD",
+        "#D#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:bone"
+        },
+        "D": {
+            "item": "minecraft:deepslate_bricks"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        }
+    },
+    "result": {
+        "item": "minecraft:reinforced_deepslate",
+        "count": 1
+    }
+}
