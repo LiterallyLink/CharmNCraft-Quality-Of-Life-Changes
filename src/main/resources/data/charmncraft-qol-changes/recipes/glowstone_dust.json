@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " G ",
+    "   "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glow_berries"
+    }
+  },
+  "result": {
+    "item": "minecraft:glowstone_dust",
+    "count": 1
+  }
+}

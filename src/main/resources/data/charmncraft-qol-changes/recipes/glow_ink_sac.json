@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:ink_sac"
+    },
+    "G": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "minecraft:glow_ink_sac",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GV"
+  ],
+  "key": {
+    "V": {
+      "item": "minecraft:vine"
+    },
+    "G": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "minecraft:glow_lichen",
+    "count": 1
+  }
+}

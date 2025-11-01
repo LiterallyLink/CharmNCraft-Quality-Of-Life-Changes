@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "G G",
+        "PRP"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:glow_ink_sac"
+        },
+        "P": {
+            "item": "minecraft:ender_pearl"
+        },
+        "R": {
+            "item": "minecraft:repeater"
+        }
+    },
+    "result": {
+        "item": "minecraft:sculk_sensor",
+        "count": 1
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PSP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:purpur_block"
+    },
+    "S": {
+      "item": "minecraft:nautilus_shell"
+    }
+  },
+  "result": {
+    "item": "minecraft:shulker_box",
+    "count": 1
+  }
+}
