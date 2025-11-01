@@ -1,0 +1,41 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#CF",
+        "OWB",
+        "SAE"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:loom"
+        },
+        "C": {
+            "item": "minecraft:crafting_table"
+        },
+        "F": {
+            "item": "minecraft:furnace"
+        },
+        "O": {
+            "item": "minecraft:cartography_table"
+        },
+        "W": {
+            "item": "minecraft:writable_book"
+        },
+        "B": {
+            "item": "minecraft:brewing_stand"
+        },
+        "S": {
+            "item": "minecraft:smithing_table"
+        },
+        "A": {
+            "item": "minecraft:anvil"
+        },
+        "E": {
+            "item": "minecraft:enchanting_table"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
