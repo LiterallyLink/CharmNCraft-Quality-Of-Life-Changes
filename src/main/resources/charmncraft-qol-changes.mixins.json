@@ -3,7 +3,7 @@
 	"package": "charmncraft.qol.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"GrindstoneScreenHandlerMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
